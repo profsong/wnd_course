@@ -1,2 +1,2 @@
-# wnd_course
+# INU GSL Network Design & Simulation
 Course materials
